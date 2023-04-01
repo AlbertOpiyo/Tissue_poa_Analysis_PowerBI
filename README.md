@@ -22,9 +22,10 @@ I decided to use Power Bi for my analysis and used its pillars i.e **_DAX Calcul
 
 ## **_HERE IS MY DASHBOARD_**
 
+![](Dashboard.png)
+
 ### WHICH REGIONS AND SUB-REGIONS GENERATE THE HIGHEST REVENUES?
 Embakasi Region(sh 436540)and Fedha sub-region(sh 70850) have the highest revenues in tissue sales- interestingly Fedha Estate is in Embakasi
-
 
 
 ### WHICH REGIONS AND SUBREGION RESTOCKS THE MOST IN REVENUES?
@@ -37,7 +38,7 @@ in terms of change in stock revenue Langata Region had the highest change with 1
 
 
 ### How does the original bales and restock bales compare per region?
-Langata has the highest restock of bales while kitengela has the lowest
+Langata has the highest restock of bales while kitengela has the low
 
 ###  Which trade category stocks the most tissues?
 Small Duka stocks most tissue both the first time and after restock while large duka stocks the least tissues. 
