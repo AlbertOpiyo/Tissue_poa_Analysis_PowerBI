@@ -38,7 +38,7 @@ in terms of change in stock revenue Langata Region had the highest change with 1
 
 
 ### How does the original bales and restock bales compare per region?
-Langata has the highest restock of bales while kitengela has the low
+Langata has the highest restock of bales while kitengela has the lowest
 
 ###  Which trade category stocks the most tissues?
 Small Duka stocks most tissue both the first time and after restock while large duka stocks the least tissues. 
